@@ -1,2 +1,0 @@
-# JNRL-Exam
-JNRL Exam
